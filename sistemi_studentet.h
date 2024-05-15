@@ -1,0 +1,8 @@
+#ifndef SISTEM_LIBRARIE_C_SISTEMI_STUDENTET_H
+#define SISTEM_LIBRARIE_C_SISTEMI_STUDENTET_H
+
+void shtoStudent(void);
+void lexoStudentetTxt(void);
+
+
+#endif //SISTEM_LIBRARIE_C_SISTEMI_STUDENTET_H

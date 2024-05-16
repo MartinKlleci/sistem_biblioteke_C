@@ -1,0 +1,3 @@
+"F:\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\sistem_librarie_C.dir/objects.a
+F:\CLION2~1.4\bin\mingw\bin\ar.exe qc CMakeFiles\sistem_librarie_C.dir/objects.a @CMakeFiles\sistem_librarie_C.dir\objects1.rsp
+F:\CLION2~1.4\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\sistem_librarie_C.dir/objects.a -Wl,--no-whole-archive -o sistem_librarie_C.exe -Wl,--out-implib,libsistem_librarie_C.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sistem_librarie_C.dir\linkLibs.rsp
